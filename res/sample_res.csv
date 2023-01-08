@@ -1,0 +1,11 @@
+post_id,parent_id,comment_id,text,category,clean_text,tokens
+1,,,Eliciting priors from experts,title,eliciting priors from experts,"['eliciting', 'priors', 'from', 'experts']"
+2,,,What is normality?,title,what is normality?,"['what', 'is', 'normality', '?']"
+3,,,What are some valuable Statistical Analysis open source projects?,title,what are some valuable statistical analysis open source projects?,"['what', 'are', 'some', 'valuable', 'statistical', 'analysis', 'open', 'source', 'projects', '?']"
+4,,,Assessing the significance of differences in distributions,title,assessing the significance of differences in distributions,"['assessing', 'the', 'significance', 'of', 'differences', 'in', 'distributions']"
+6,,,The Two Cultures: statistics vs. machine learning?,title,the two cultures: statistics vs. machine learning?,"['the', 'two', 'cultures', ':', 'statistics', 'vs.', 'machine', 'learning', '?']"
+7,,,Locating freely available data samples,title,locating freely available data samples,"['locating', 'freely', 'available', 'data', 'samples']"
+8,,,So how many staticians *does* it take to screw in a lightbulb?,title,so how many staticians *does* it take to screw in a lightbulb?,"['so', 'how', 'many', 'staticians', '*', 'does', '*', 'it', 'take', 'to', 'screw', 'in', 'a', 'lightbulb', '?']"
+10,,,Under what conditions should Likert scales be used as ordinal or interval data?,title,under what conditions should likert scales be used as ordinal or interval data?,"['under', 'what', 'conditions', 'should', 'likert', 'scales', 'be', 'used', 'as', 'ordinal', 'or', 'interval', 'data', '?']"
+11,,,Multivariate Interpolation Approaches,title,multivariate interpolation approaches,"['multivariate', 'interpolation', 'approaches']"
+21,,,Forecasting demographic census,title,forecasting demographic census,"['forecasting', 'demographic', 'census']"
